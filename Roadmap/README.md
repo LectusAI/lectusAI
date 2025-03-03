@@ -16,3 +16,11 @@ There are various path to start the AI saas profiting business, my goal is to ac
 - JS for the frontend
 - Think of an AI SaaS product
 - All this while do not forget to create content and influence people
+
+
+## Collaborate 
+- Have Anu to handle the frontend 
+- Collaborate with more people who have already done this
+- Find people in local communities or meetups 
+- Find people in online communities like Reddit, Discord, Slack, LinkedIn
+

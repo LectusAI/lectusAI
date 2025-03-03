@@ -1,0 +1,2 @@
+# Site 
+This is a site is the Home for [LectusAI](https://lectusai.com/). It is a dynamic site that is created with [LectusAI](https://lectusai.com/). The site is hosted on [Netlify](https://www.netlify.com/).
